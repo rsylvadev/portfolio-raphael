@@ -970,7 +970,7 @@ Análise Financeira: Capacidade analítica para realizar cálculos como pro-rata
 
                                 <li>
                                     <a
-                                        href="https://github.com/Rasz94"
+                                        href="https://github.com/rsylvadev"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         className="hover:text-white transition-colors"
